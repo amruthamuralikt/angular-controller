@@ -1,0 +1,19 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body ng-app="app1" >
+    <div style="text-align: center;">
+   <h2><u>courses offered</u></h2>
+       <ul ng-controller="courseCtrl" style="text-align: center;list-style: none;">
+           <li ng-repeat="course in courses">
+               {{course}}</li>
+       </ul>
+       
+    </div>
+</body>
+</html>

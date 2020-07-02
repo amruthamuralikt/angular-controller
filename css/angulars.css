@@ -1,0 +1,73 @@
+body{
+    background-color: rgb(226, 226, 210);
+}
+
+.main{
+    width: 800px;
+    text-align: center;
+    margin-top:10px;
+    border: 2px solid hsl(320, 2%, 72%);
+    background-color: white;
+    height: 500px;
+    
+
+}
+h1{
+    text-align: center;
+    background-color:rgb(0, 110, 255);;
+    padding: 30px 0px;
+    margin-top: 0px;
+}
+ul{
+    list-style: none;
+    font-size: 20px;
+    color: black;
+    margin-left: -30px;
+    margin-bottom: 0px;
+    text-align: left;
+
+}   
+li{
+    
+    padding: 10px 10px;
+    text-align: left;
+    padding-left: 20px;
+    
+
+}
+li span{
+    cursor: pointer;
+    position: relative;
+    float: right;
+    margin-right: 10px;
+}
+ .additem
+ {
+position: relative;
+padding-bottom: 0px;
+height: 200px;
+background-color:white;
+ }
+
+.addtext
+{
+
+    width: 80%;
+    height: 40px;
+    margin-right: 50px;
+   background-color:#f4f4f4 ;
+   border:none;
+}
+.additem button{
+height: 35px;
+width: 80px;
+text-align: center;
+display:inline-block;
+border-radius: 0;
+float: center;
+
+}
+::placeholder
+{
+    color: #d8cccce7;
+}

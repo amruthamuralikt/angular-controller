@@ -1,0 +1,41 @@
+body{
+  background-color: #cfcaca;
+}
+.container
+{
+width:500px;
+height:600px;
+
+align-items: center;
+text-align: center;
+margin-top: 40px;
+padding: 0px;
+}
+.hd
+{
+
+  background-color: #f06c6c;
+width: 100%;
+align-content: center;
+//border-bottom: 1px solid gray;
+text-align: center;
+margin-left: 0px;
+margin-right: 0px;
+height: 120px;
+
+
+}
+.list{
+  width: 100%;
+  margin-top: 10px;
+  
+width: 100%;
+height: 350px;
+background-color:#f06e6e;
+}
+li{
+  font-size: 20px;
+  color:black;
+  position: relative;
+  border-radius: 15px;
+}

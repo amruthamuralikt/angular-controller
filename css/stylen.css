@@ -1,0 +1,43 @@
+body{
+background-color: rgb(231, 236, 241);	
+}
+.login-box{
+	max-width: 500px;
+	float:none;
+	margin: 100px 400px 100px;
+	
+}
+
+.login-p{
+	background: rgb(211,211,211,0.5);
+	padding: 30px;
+}
+.con-p{
+	margin: 100px 400px 100px;
+background-color: red;
+
+}
+
+.dcol{
+	margin-top:100px;
+	height:auto;
+	background-color: skyblue;
+	
+  width: auto;
+  //border-color: green;
+  //border-style: solid;
+  //border: 15px solid green;
+  padding: 10px;
+  //margin: 20px;
+}
+
+}
+.cfluid{
+	height: 100%;
+	//border-style:solid;
+	//border-color: blue;
+}
+.dtable
+{
+	background-color: skyblue;
+}
